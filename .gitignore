@@ -1,0 +1,6 @@
+Shopping/.vs/
+
+**/bin/
+**/obj/
+**/*.csproj.user
+Shopping/.idea/
